@@ -1,9 +1,8 @@
-# MdpUebungSelbstaendigMocksSchreiben (Java / Maven Project)
+# MdpUebungSelbstaendigMocksSchreiben
 
-## Installation
+## Installation / Usage
 
-## Usage
-
-    git clone git://github.com/panter/ch.panter.projectzero.git
-    cd ch.panter.projectzero
+	git clone git://github.com/Lords-Von-Handschreiber/MdpUebungSelbstaendigMocksSchreiben.git
+    cd MdpUebungSelbstaendigMocksSchreiben
     mvn install
+	mvn test
